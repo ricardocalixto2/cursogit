@@ -14,6 +14,7 @@ namespace ExercicioPensao
             Quarto.Calcula(ref a);
             Console.WriteLine(a);
             Console.WriteLine("Bom dia");
+            Console.WriteLine("oi");
    
         }
     }
